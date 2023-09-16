@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "674783242559",
+    "project_id": "seconddemo-903db",
+    "storage_bucket": "seconddemo-903db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674783242559:android:3410f9772186d76a00cb8a",
+        "android_client_info": {
+          "package_name": "com.example.second_projects"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674783242559-afa78udm367cnfgemgd8e88nl1u2eso3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.second_projects",
+            "certificate_hash": "aa4c97d30b24735a4f5f0cf3c514141aabd2dcbf"
+          }
+        },
+        {
+          "client_id": "674783242559-kaq2gr4f70fev8srms0hmkua4ai369ct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAatxhNwId4S-tRJ6-DaJLjYkCAszfA0bk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674783242559-6hifekpf3upbtdnn4jr8lu6am3l7pulj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
